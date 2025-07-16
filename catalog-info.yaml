@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1ahpha1
+kind: component
+metadata:
+  name: kar-yeow
+  annotations:
+    github.com/projects-slug: kar-yeow/public1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: karyeow
