@@ -2,8 +2,6 @@ apiVersion: backstage.io/v1ahpha1
 kind: Component
 metadata:
   name: dummy-public-comp
-  annotations:
-    github.com/kar-yeow: public1
 spec:
   type: website
   lifecycle: production
