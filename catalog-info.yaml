@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1ahpha1
 kind: Component
 metadata:
-  name: dummy-public-repo
+  name: dummy-public-comp
   annotations:
     github.com/kar-yeow: public1
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: production
   owner: karyeow
