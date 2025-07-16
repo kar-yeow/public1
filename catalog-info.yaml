@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1ahpha1
-kind: component
+kind: Component
 metadata:
-  name: kar-yeow
+  name: dummy-public-repo
   annotations:
-    github.com/projects-slug: kar-yeow/public1
+    github.com/kar-yeow: public1
 spec:
   type: other
   lifecycle: unknown
