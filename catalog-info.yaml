@@ -4,8 +4,8 @@ metadata:
   name: dummy-public-comp
   annotation:
     backstage.io/techdocs-ref: http://mydoc.location.com
-  description: A dummy public component in github
+  description: A dummy public component in github, wait for auto update of description
 spec:
   type: website
-  lifecycle: production
+  lifecycle: experimental
   owner: karyeow
