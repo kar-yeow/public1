@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dummy-public-comp
+  annotation:
+    backstage.io/techdocs-ref: http://mydoc.location.com
   description: A dummy public component in github
 spec:
   type: website
