@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: dummy-public-comp
+  description: A dummy public component in github
 spec:
   type: website
   lifecycle: production
